@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+numpy
+# Si tienes GPU NVIDIA en Linux y quieres probar CuPy:
+# cupy-cuda12x
